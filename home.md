@@ -26,7 +26,7 @@ sudo apt-get install chrome
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-<table style="width:100%">
+<table>
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
